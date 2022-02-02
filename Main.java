@@ -4,7 +4,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
 
-        //region Array Lists
+        //region Arrays
 
         //region Verb Roots
         String[] verbRoots = {"andar", "ir", "comer", "nadar", "dormir", "averiguar", "cantar",
